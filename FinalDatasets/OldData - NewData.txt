@@ -1,0 +1,14 @@
+OldData -> NewData:
+
+Data3 -> Data1
+Data6 -> Data2
+Data7 -> Data3
+Data10 -> Data4
+Data11 -> Data5
+Data12 -> Data6
+Data13 -> Data7
+Data14 -> Data8
+Data15 -> Data9
+Data16 -> Data10
+
+DATA 4-11 BECOMES 1-8 IN PAPER, 11 IS IPHONE SCAN
