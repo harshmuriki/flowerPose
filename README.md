@@ -1,6 +1,6 @@
 # FlowerPose: Pose Extraction for Plants
 
-Robotic Phenotyping for Small-Scale Urban Farms
+Robotic 3D Flower Pose Estimation for Small-Scale Urban Farms
 
 > ***Note:*** Code and documentation for usage will be updated soon.
 
@@ -19,7 +19,7 @@ Robotic Phenotyping for Small-Scale Urban Farms
 ---
 
 ## Overview
-FlowerPose is a toolkit for plant pose estimation and analysis using computer vision and deep learning. It provides utilities for video processing, dataset creation, pose estimation, and deep learning model development, with a focus on agricultural robotics and plant phenotyping.
+FlowerPose is a toolkit for plant pose estimation and analysis using computer vision and deep learning. It provides utilities for video processing, dataset creation, pose estimation, and deep learning model development, with a focus on agricultural robotics and plant phenotyping. You can read the paper here: https://ieeexplore.ieee.org/document/11128713
 
 ---
 
